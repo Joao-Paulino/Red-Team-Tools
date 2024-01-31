@@ -1,6 +1,8 @@
 # RedTeamTools
 Red Team Collection Tools
 
+https://github.com/refabr1k/pentest_notebook
+
 https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 https://github.com/topics/red-team
