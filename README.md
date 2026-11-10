@@ -89,6 +89,8 @@ An ongoing & curated collection of awesome software best practices and technique
 * [Microsoft Office – NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
 * [Defense-In-Depth write-up](https://oddvar.moe/2017/09/13/defense-in-depth-writeup/)
 * [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
+* [Guide: Web Application Security Testing with Burp Suite (own write-up)](guides/burp-suite-web-testing.md)
+* [Guide: SQL Injection Testing with sqlmap (own write-up)](guides/sqlmap-sql-injection.md)
 
  
 ## [↑](#table-of-contents) Execution 
@@ -177,6 +179,7 @@ An ongoing & curated collection of awesome software best practices and technique
 * [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
 * [Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync](https://adsecurity.org/?p=2053)
 * [Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)
+* [Guide: Man-in-the-Middle with Ettercap (own write-up)](guides/mitm-ettercap.md)
   
 ## [↑](#table-of-contents) Discovery
 * [Red Team Operating in a Modern Environment](https://www.owasp.org/images/4/4b/Red_Team_Operating_in_a_Modern_Environment.pdf)
